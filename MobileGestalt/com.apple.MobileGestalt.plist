@@ -11,10 +11,6 @@
         <key>SetupComplete</key><true/>
         <key>DeviceActivationState</key><string>WildcatActivated</string>
 
-				<key>DeviceModel</key><string>iPod9,1</string>
-        <key>DeviceModel</key><string>iPad11,1</string>
-        <key>DeviceModel</key><string>iPhone12,8</string> 
-
         <key>DeviceSupportsAlwaysOnDisplay</key><true/>
         <key>DeviceSupportsStageManager</key><true/>          <!-- Stage Manager en iPhone -->
         <key>DeviceSupportsExternalDisplay</key><true/>       <!-- Salida HDMI/USB-C video -->
