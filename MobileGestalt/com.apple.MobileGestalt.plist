@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CacheExtra</key>
+    <dict>
+        <key>DeviceIsActivated</key><true/>
+        <key>ActivationState</key><string>Activated</string>
+        <key>HasSEP</key><true/>
+        <key>BasebandStatus</key><string>Activated</string>
+        <key>SetupComplete</key><true/>
+        <key>DeviceActivationState</key><string>WildcatActivated</string>
+
+				<key>DeviceModel</key><string>iPod9,1</string>
+        <key>DeviceModel</key><string>iPad11,1</string>
+        <key>DeviceModel</key><string>iPhone12,8</string> 
+
+        <key>DeviceSupportsAlwaysOnDisplay</key><true/>
+        <key>DeviceSupportsStageManager</key><true/>          <!-- Stage Manager en iPhone -->
+        <key>DeviceSupportsExternalDisplay</key><true/>       <!-- Salida HDMI/USB-C video -->
+        <key>DeviceSupportsNFC</key><true/>
+        <key>DeviceSupportsWirelessCharging</key><true/>
+        <key>DeviceSupportsCamera</key><true/>
+        <key>AppleInternal</key><true/>                       <!-- Menú desarrollador oculto -->
+        <key>InternalBuild</key><true/>
+        <key>DeveloperMode</key><true/>
+
+        <key>a6vjpkzcrjrsxmnifsm0dg</key><true/>
+        <key>k7LnyFU8mcUM7HZ3V5OWwg</key><true/>
+        <key>3s7exJKsJ0Li4htF9lMhyA</key><true/>
+        <key>o0O1x1O7s1i0y0m0a0n0d0g</key><true/>
+        <key>f9k5x8v7l3m9q2r4t6y8u0</key><true/>
+    </dict>
+    <key>CacheData</key>
+    <data>
+    </data>
+</dict>
+</plist>
